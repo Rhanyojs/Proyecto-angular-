@@ -1,0 +1,81 @@
+
+.grid-wrapper {
+    background-color: rgb(200, 207, 207);
+    height: 584px;
+     width: 100%;
+     margin-left: -1px;
+    
+}
+
+
+
+.toolbar-container {
+    width: 217.6vh;
+    height: 30px;
+    margin-left: 4px;
+    text-align: center;
+    position:relative;
+    border: 1px solid  black;
+    background-color:rgb(203, 240, 72);
+    background-position: right ;
+    top: 10px;
+    border-radius: 90vh;
+    border-bottom-right-radius: 60%;
+    // padding-inline: 12px;
+      
+}
+
+// .toolbar-container:hover {
+//     cursor: pointer;
+//     transform: perspective(40px) translate3D(-4px, 4px, -2px);
+//     z-index: 2;
+//     animation-name: efect;
+//     animation-iteration-count: infinite;
+//     animation-duration: 2s;
+//     transition: all 0.4s ease;
+//   }
+
+
+.sidenav-container{
+    width: 300px;
+    height: 140px;
+    border: 1px solid  black;
+    background-color: rgb(203, 240, 72);
+    margin-left: 4px;
+    top: 46px;
+    position:absolute;
+    border-radius: 90vh;
+}
+
+// .sidenav-container:hover {
+//     cursor: pointer;
+//     transform: perspective(30px) translate3D(-4px, 4px, -2px);
+//     z-index: 2;
+//     animation-name: efect;
+//     animation-iteration-count: infinite;
+//     animation-duration: 2s;
+//     transition: all 0.4s ease;
+// }
+
+.page-wrapper{
+    width: 165.5vh;
+    height: 136px;
+    border: 1px solid  black;
+    background-color: rgb(203, 240, 72);
+    margin-left: 309px;
+    top: 16px;
+    position:relative;
+    border-radius: 90vh;
+    border-end-start-radius: 10px;
+    // border-block-end-width: 3px;
+}
+
+// .page-wrapper:hover {
+//     cursor: pointer;
+//     transform: perspective(40px) translate3D(-4px, 4px, -2px);
+//     z-index: 2;
+//     animation-name: efect;
+//     animation-iteration-count: infinite;
+//     animation-duration: 2s;
+//     transition: all 0.4s ease;
+// }
